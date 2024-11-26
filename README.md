@@ -28,7 +28,7 @@ I'm currently in my final year at EPHEC studying e-Business, in Business Analysi
 # 🚀 Current Projects
 ### Kids&Us Mobile App:
 - Designing a mobile solution to enhance English language learning for kids aged 8+.
-###Teexify:
+### Teexify:
 - Collaborating on a group project to deliver an innovative app, focusing on defining and aligning project requirements.
 - Allowing seamless event transactions via QR codes.
 # 📈 Goals
