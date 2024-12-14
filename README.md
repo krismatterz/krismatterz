@@ -11,9 +11,9 @@ I'm currently in my final year at EPHEC studying e-Business, in Business Analysi
 # 🔧 My Skills
 ## Development & Tools
 ### Languages & Frameworks:
-- JavaScript, HTML, CSS, React, Python
+- HTML5, CSS3, JavaScript, Next.js
 ### Databases:
-- MySQL, Firebase
+- MySQL, Firebase, Supabase
 #### Tools & Platforms:
 - Arc, GitHub, Figma, Notion, Linear, Cursor, Virtual Studio Code, Xcode
 #### Business & Analysis
