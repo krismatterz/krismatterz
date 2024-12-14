@@ -1,5 +1,5 @@
 # Hello, I'm Kristi
-## 🌟 Portfolio: [https://kristis.me]
+## Portfolio: [https://kristis.me]
 
 ## 🌟 Welcome to My GitHub Profile!
 I'm currently in my final year at EPHEC studying e-Business, in Business Analysis. My passion lies at the intersection of technology, creativity, and problem-solving. Whether it’s developing innovative applications, enhancing user experiences, or empowering learners through digital tools, I strive to make a meaningful impact with every project I undertake.
