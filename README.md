@@ -7,7 +7,7 @@ I'm currently in my final year at EPHEC studying e-Business, in Business Analysi
 # 💼 About Me
 - 🎓 Final-year student in e-Business specializing in Business Analysis.
 - 💡 Tackling a final-year thesis (TFE) with Kids&Us, focused on creating a mobile app to help children aged 8+ learn English through engaging content like syllabus, interactive games, and multimedia.
-- 🚀 Group project: Teexify – an app where I contribute by crafting detailed requirement specifications.
+- 🚀 Group project: Teexify [https://teexify.vercel.app] – an app where I contribute by crafting detailed requirement specifications.
 - 🎶 Experienced in the music industry, with a project launched in 2017 where I managed distribution and publishing for original music.
 - 🌍 Exploring digital distribution systems inspired by platforms like DistroKid and TuneCore.
 # 🔧 My Skills
