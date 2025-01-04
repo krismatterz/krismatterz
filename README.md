@@ -1,15 +1,13 @@
 # Hello, I'm Kristi
-## Portfolio: [https://kristis.me]
+## Portfolio: [coming soon]
 
 ## 🌟 Welcome to My GitHub Profile!
 I'm currently in my final year at EPHEC studying e-Business, in Business Analysis. My passion lies at the intersection of technology, creativity, and problem-solving. Whether it’s developing innovative applications, enhancing user experiences, or empowering learners through digital tools, I strive to make a meaningful impact with every project I undertake.
 
 # 💼 About Me
 - 🎓 Final-year student in e-Business specializing in Business Analysis.
-- 💡 Tackling a final-year thesis (TFE) with Kids&Us, focused on creating a mobile app to help children aged 8+ learn English through engaging content like syllabus, interactive games, and multimedia.
 - 🚀 Group project: Teexify [https://teexify.vercel.app] – an app where I contribute by crafting detailed requirement specifications.
 - 🎶 Experienced in the music industry, with a project launched in 2017 where I managed distribution and publishing for original music.
-- 🌍 Exploring digital distribution systems inspired by platforms like DistroKid and TuneCore.
 # 🔧 My Skills
 ## Development & Tools
 ### Languages & Frameworks:
@@ -28,8 +26,6 @@ I'm currently in my final year at EPHEC studying e-Business, in Business Analysi
 #### Content Creation
 #### Music Production
 # 🚀 Current Projects
-### Kids&Us Mobile App:
-- Designing a mobile solution to enhance English language learning for kids aged 8+.
 ### Teexify:
 - Collaborating on a group project to deliver an innovative app, focusing on defining and aligning project requirements.
 - Allowing seamless event transactions via QR codes.
