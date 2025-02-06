@@ -13,4 +13,4 @@ I like to use my creativity and problem-solving skills together. Whether it’s 
 - Next.js & React, TypeScript, Firebase, Clerk, Supabase, Vercel, GitHub.
 - Learning Zig, Python and Swift & SwiftUI.
 #### My Apps:
-- Arc, Figma, Notion, Linear, Cursor, Virtual Studio Code, Ghostty Xcode, Zen Browser, LM Studio
+- Arc [https://arc.net], Figma [https://figma.com], Notion [https://notion.so], Linear [https://linear.app], Cursor [https://cursor.so], Virtual Studio Code [https://code.visualstudio.com/], Ghostty [https://ghostty.org], Xcode [https://developer.apple.com/xcode], Zen Browser [https://zen-browser.app/], LM Studio [https://lmstudio.ai]
