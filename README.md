@@ -1,4 +1,4 @@
-# Hello, I'm Kristi
+# Hello,
 ## Portfolio: [coming soon]
 
 ## 🌟 Welcome to My GitHub Profile!
