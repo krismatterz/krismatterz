@@ -4,7 +4,7 @@ I like to use my creativity and problem-solving skills together. Whether it’s 
 
 ## 💼 About Me
 - 🎓 Final-year student, e-Business specializing in Business Analysis.
-- 🚀 Recent team project done: Teexify MVP [https://teexify.vercel.app] – an app I did with 5 other students from 0 where I did the Design in Figma and half of the codebase.
+- [x] Recent team project done: Teexify MVP [https://teexify.vercel.app] – an app I did with 5 other students from 0 where I did the Design in Figma and half of the codebase.
 - 🎶 Experienced in the music industry, releasing original music independently and accumulated more than 600K streams.
 ### Active Projects
 - 📄 Invoice & Quotation App "Beta coming soon".
