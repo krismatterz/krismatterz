@@ -1,5 +1,5 @@
 ## <Hello World!>
-I'm passionate about Technology, Design, Music, Sports and a lot more...
+A passionate guy with some experience in Technology, Design, Music, Sports and Business.
 I like to use my creativity and problem-solving skills together. Whether it’s developing innovative applications, enhancing user experiences, or empowering learners through digital tools, I strive to make a meaningful impact with every project I undertake.
 
 ## 💼 About Me
