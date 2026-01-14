@@ -10,7 +10,7 @@
 
 ### AI Webapp - Learn languages with AI:
 
-- Tech Stack: Next.js 16, AI SDK 5, React 19, Convex, Open Router
+- Tech Stack: Next.js 16, AI SDK 6, React 19, Convex, Open Router
 - Features: Chat with AI, ask questions related to the course, personalized vocabulary with quick search and translation
 
 ### AI Webapp - Todo list, Project Management:
