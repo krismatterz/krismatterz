@@ -1,6 +1,7 @@
-## Product/Design Engineer
+## Product Engineer
 
-## Cooking...
+### Tinkering Agents
+- Agentic Engineering Toolkit [GitHub](https://github.com/krismatterz/agents)
 
 ### InQuote - Building the future of e-invoicing:
 
