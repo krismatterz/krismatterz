@@ -1,7 +1,8 @@
 ## Product Engineer
 
 ### Tinkering Agents
-- Agentic Engineering Toolkit [GitHub](https://github.com/krismatterz/agents)
+- Building an Agentic Engineering Toolkit
+- GitHub [agents](https://github.com/krismatterz/agents)
 
 ### InQuote - Building the future of e-invoicing:
 
