@@ -6,7 +6,7 @@
 
 - I am currently developing an e-invoicing platform where you can manage quotes, invoices, payments and clients.
 - You can integrate InQuote with Gmail, Notion, Slack and more...
-- You can create an invoice in seconds or you can ask AI to prepare it for you 👀
+- You can create fee quotes in seconds or you can ask ChatGPT to do it for you 👀
 
 ### AI Webapp - Learn languages with AI:
 
