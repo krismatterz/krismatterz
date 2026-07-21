@@ -1,16 +1,23 @@
-Founder of [InQuote](https://inquote.app).
+Co-founder of Stealth and Founder of [InQuote](https://inquote.app).
 
 ### InQuote - Building the future of invoicing:
 
-- Full-time developing an e-invoicing platform:
+- Developing an e-invoicing platform:
   - Quotes, invoices, clients, scanning, payments, templates, emails
 - Smart Integrations:
   - Gmail, Outlook, Notion, Slack, Teams, Jira and more...
 - AI Agents and MCP integration
+  - Integrate InQuote to ChatGPT as an App or to Claude AI as a Connector
 
-### Tinkering Agents
-- Building an Agentic Engineering Toolkit
-- You can find skills and subagents here: [agents](https://github.com/krismatterz/agents)
+### Steering Agents
+- Building a harness that implements with all coding tools
+- You can find some published skills and subagents here: [agents](https://github.com/krismatterz/agents)
+
+Hobby and tests:
+
+### AI SDK 7 fork
+
+- building...
 
 ### Language learning App:
 
