@@ -6,7 +6,8 @@ Co-founder of Stealth and Founder of [InQuote](https://inquote.app).
   - Quotes, invoices, clients, scanning, payments, templates, emails
 - Smart Integrations:
   - Gmail, Outlook, Notion, Slack, Teams, Jira and more...
-- AI Agents and MCP integration
+- AI Agents and MCP integration:
+  - AI Chat that helps users with every need, ask it everything about you and your bills!
   - Integrate InQuote to ChatGPT as an App or to Claude AI as a Connector
 
 ### Steering Agents
