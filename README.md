@@ -1,4 +1,4 @@
-Co-founder, CTO [Stuntpony](https://stuntpony.com)  [InQuote](https://inquote.app).
+Co-founder, CTO [Stuntpony](https://stuntpony.com)
 
 ### Building Stuntpony
 - Helping SPICED sellers become 3x sellers
